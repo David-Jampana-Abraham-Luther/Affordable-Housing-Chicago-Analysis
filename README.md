@@ -14,6 +14,7 @@ Specialized demographics (e.g., Senior LGBTQ, Supportive Veterans) are significa
 Affordable housing is clustered in specific community areas.
 
 Weak correlation observed between unit counts and property types.
+
 **
 🏛️ Policy Implications**
 Identified gaps in housing availability for vulnerable groups.
@@ -26,6 +27,7 @@ Data Cleaning: Addressed missing values, unified formats.
 Exploratory Analysis: Created bar plots, histograms, and heatmaps to compare distributions and densities.
 
 Geospatial Analysis: Used leaflet to map latitude/longitude coordinates and reveal spatial trends across Chicago.
+
 **
 🛠️ Tools & Technologies**
 Languages: R (primary), Python
@@ -37,6 +39,7 @@ R: leaflet, ggplot2, dplyr
 Python: pandas, seaborn
 
 Data Source: City of Chicago Affordable Rental Housing Dataset
+
 **
 👥 Collaborators**
 Charan Teja Kurakula
