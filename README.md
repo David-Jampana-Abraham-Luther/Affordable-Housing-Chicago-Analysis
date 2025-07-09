@@ -1,44 +1,41 @@
 # Affordable-Housing-Chicago-Analysis
 
-📌 Overview
-This project analyzes Chicago's affordable rental housing developments using statistical and geospatial techniques. We explore property type distributions, community area trends, and spatial accessibility to inform urban planning and policy decisions.
+📌 Project Overview
+We analyzed the distribution of property types, spatial housing patterns, and accessibility across Chicago’s community areas. The dataset, sourced from the City of Chicago, contains 593 records across 14 attributes related to affordable housing.
 
-🔍 Key Findings
-Property Types:
+🔍 Key Insights
+🏘️ Property Types
+Multifamily (44%) and ARO (25%) properties dominate the affordable housing market.
 
-Multifamily (44%) and ARO (25%) dominate the market.
+Specialized demographics (e.g., Senior LGBTQ, Supportive Veterans) are significantly underrepresented.
 
-Niche demographics (e.g., Senior LGBTQ, Supportive Veterans) show significant underrepresentation.
+📍 Geospatial Patterns
+Affordable housing is clustered in specific community areas.
 
-Geospatial Patterns:
+Weak correlation observed between unit counts and property types.
 
-Clusters of affordable housing identified in specific community areas.
+🏛️ Policy Implications
+Identified gaps in housing availability for vulnerable groups.
 
-Weak correlation between unit counts and property types.
+Provides support for data-driven resource allocation and planning efforts.
 
-Policy Insights:
+🧠 Methods
+Data Cleaning: Addressed missing values, unified formats.
 
-Highlights gaps in housing for vulnerable populations.
+Exploratory Analysis: Created bar plots, histograms, and heatmaps to compare distributions and densities.
 
-Supports data-driven resource allocation strategies.
+Geospatial Analysis: Used leaflet to map latitude/longitude coordinates and reveal spatial trends across Chicago.
 
 🛠️ Tools & Technologies
 Languages: R (primary), Python
 
 Libraries:
 
-leaflet (interactive maps), ggplot2 (visualizations), dplyr (data wrangling).
+R: leaflet, ggplot2, dplyr
 
-pandas, seaborn (Python analysis).
+Python: pandas, seaborn
 
-Data Source: City of Chicago Dataset (593 rows × 14 columns).
-
-📊 Methods
-Data Cleaning: Handled missing values and standardized formats.
-
-Exploratory Analysis: Bar graphs, histograms, and heatmaps to compare property types and community densities.
-
-Geospatial Analysis: Latitude/longitude coordinates mapped using Leaflet for spatial trend detection.
+Data Source: City of Chicago Affordable Rental Housing Dataset
 
 👥 Collaborators
 Charan Teja Kurakula
@@ -47,5 +44,7 @@ Vinay Chowdary Muppalla
 
 David Jampana Abraham Luther
 
-✨ Why This Matters
-This project demonstrates how data science can address urban housing challenges, offering actionable insights for policymakers and nonprofits.
+✨ Why It Matters
+By combining data science and urban policy, this project showcases how analytics can help identify housing inequities and promote more inclusive urban development strategies.
+
+
