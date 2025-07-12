@@ -41,12 +41,7 @@ Python: pandas, seaborn
 Data Source: City of Chicago Affordable Rental Housing Dataset
 
 
-👥 Collaborators
-Charan Teja Kurakula
 
-Vinay Chowdary Muppalla
-
-David Jampana Abraham Luther
 
 ✨ Why It Matters
 By combining data science and urban policy, this project showcases how analytics can help identify housing inequities and promote more inclusive urban development strategies.
